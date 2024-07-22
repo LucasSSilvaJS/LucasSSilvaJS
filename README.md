@@ -7,7 +7,7 @@
 )](https://www.linkedin.com/in/lucas-de-souza-silva-4937bb198/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_dev.js)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581983437379)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucas.desenvolvedor.js@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.desenvolvedor.js@gmail.com)
 
 ## Linguagens mais utilizadas
 ![Tecnologias mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSSilvaJS&layout=compact)

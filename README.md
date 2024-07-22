@@ -1,6 +1,20 @@
 ## Seja bem-vindo(a) ao meu perfil do GitHub!
 
-![02011ec8554277b8c70bf22fb192123c](https://github.com/user-attachments/assets/a14476fe-96bd-4210-92cf-bddce6c250fc)
+```bash
+  const aboutMe = {
+    name: "Lucas de Souza Silva",
+    role: "Fullstack Developer",
+    favoriteLanguage: "JavaScript",
+    skills: [
+      "Frontend Development",
+      "Backend Development",
+      "React",
+      "Node.js",
+      "Express",
+      "Firebase"
+    ]
+  }
+```
 
 ## Entre em contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white

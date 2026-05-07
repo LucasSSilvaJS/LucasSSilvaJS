@@ -11,6 +11,7 @@
       "React",
       "Node.js",
       "Express",
+      "MongoDB",
       "Firebase"
     ]
   }
